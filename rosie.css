@@ -10,3 +10,17 @@ body {
   background-color: #e0ebf1;
 }
 
+i {
+  color:rgb(0, 134, 134);
+  font-style: normal;
+  line-height: 25px;
+}
+
+.habilidadeum {
+  font-size: 30px;
+  }
+
+.habilidadedois {
+    font-size: 20px;
+  }
+
