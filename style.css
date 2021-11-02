@@ -1,0 +1,67 @@
+.meu-nome {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+
+.descricao {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  position: absolute;
+  top: 40%;
+  left: 30%;
+}
+
+body {
+  background-color:beige;
+  padding: 5%;
+}
+
+i {
+  color:rgb(0, 9, 134);
+  font-style: italic;
+  line-height: 25px;
+}
+
+.empatia {
+  font-size: 40px;
+}
+
+.comprometimento {
+  font-size: 30px;
+}
+
+.flexivel-as-mudancas {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.gestao-de-projetos {
+  font-style: oblique;
+  font-size: 50px;
+}
+
+.gestao-de-projetos {
+  font-weight:lighter;
+}
+
+.estrategia-empresarial {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.orientacao-a-dados-e-fatos {
+  font-family:fantasy;
+}
+
+#minha-foto {
+  float: left;
+  height: 288px;
+  padding: 10px;
+  background-color: blueviolet;
+}
+
+.image-container {
+  height: 300px;
+  position: relative;
+}
+
+ul li:nth-child(odd){
+  background-color: aquamarine;
+}
